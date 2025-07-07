@@ -1,4 +1,4 @@
-## Hi there 👋
+Fala, galera!
 
 Me chamo Bruno, sou professor de Inglês e Física e, apaixonado por tecnologia, acabei também indo parar no campo da programação para jovens do Ensino Médio.
 Esse é o meu repositório com os meus materiais de estudo.
