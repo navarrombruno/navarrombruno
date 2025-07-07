@@ -1,6 +1,7 @@
 Fala, galera!
 
-Me chamo Bruno, sou professor de Inglês e Física e, apaixonado por tecnologia, acabei também indo parar no campo da programação para jovens do Ensino Médio.
+Me chamo Bruno, sou **professor de Inglês e Física** e, apaixonado por tecnologia, acabei também indo parar no campo da programação para jovens do Ensino Médio.
+Estou cursando atualmente **Tecnologia da Informação**.
 Esse é o meu repositório com os meus materiais de estudo.
 
 <!--
